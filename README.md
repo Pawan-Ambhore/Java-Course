@@ -1,0 +1,46 @@
+# Java-Course
+
+Lecture 1: Java - Introduction to Programming
+
+Lecture 2: Java - Introduction to Programming.
+*Variables & Data Types
+
+Problems:
+1.	Try to declare meaningful variables of each type. Eg - a variable named age should be a numeric type (int or float) not byte.
+2.	Make a program that takes the radius of a circle as input, calculates its radius and area and prints it as output to the user.
+
+Lecture 3: Java - Introduction to Programming
+*Conditional Statements ‘if-else’
+*Conditional Statements ‘switch’
+
+Problems:
+Make a Calculator. Take 2 numbers (a & b) from the user and an operation as follows : 
+● 1 : + (Addition) a + b
+●	2 : - (Subtraction) a - b
+●	3 : * (Multiplication) a * b
+●	4 : / (Division) a / b
+●	5 : % (Modulo or remainder) a % b
+Calculate the result according to the operation given and display it to the user.
+
+Lecture 4: Java - Introduction to Programming
+*For Loop
+*While Loop
+*Do-While Loop
+
+Problems:
+1.	Print all even numbers till n.
+
+2.	Make a menu driven program. The user can enter 2 numbers, either 1 or 0. 
+If the user enters 1 then keep taking input from the user for a student’s marks(out of 100). 
+If they enter 0 then stop.
+If he/ she scores :
+Marks >=90 -> print “This is Good”
+89 >= Marks >= 60 -> print “This is also Good”
+59 >= Marks >= 0 -> print “This is Good as well”
+	Because marks don’t matter but our effort does.
+
+
+
+
+
+
