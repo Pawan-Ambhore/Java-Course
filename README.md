@@ -22,6 +22,8 @@ Pattern 5: https://practice.geeksforgeeks.org/problems/triangle-pattern/1?utm_so
 
 Pattern 6: https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_6
 
+Pattern 7: https://practice.geeksforgeeks.org/problems/triangle-pattern-1661492263/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_7
+
 
 Lecture 1: Java - Introduction to Programming
 
