@@ -5,6 +5,8 @@ Problem1: https://practice.geeksforgeeks.org/problems/java-if-else-decision-maki
 
 Problem2: https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1
 
+Problem3: https://practice.geeksforgeeks.org/problems/while-loop-printtable-java/1
+
 Lecture 1: Java - Introduction to Programming
 
 Lecture 2: Java - Introduction to Programming.
