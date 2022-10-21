@@ -1,6 +1,7 @@
 # Java-Course
 
 ***geeksforgeeks***
+
 Problem1: https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%5B%5D=Java&category%5B%5D=Java&difficulty%5B%5D=-2&page=1&query=category%5B%5DJavadifficulty%5B%5D-2page1category%5B%5DJava
 
 Problem2: https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1
@@ -8,11 +9,17 @@ Problem2: https://practice.geeksforgeeks.org/problems/java-switch-case-statement
 Problem3: https://practice.geeksforgeeks.org/problems/while-loop-printtable-java/1
 
 ***Patterns***
+
 Pattern 1: https://practice.geeksforgeeks.org/problems/square-pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_1
+
 Pattern 2: https://practice.geeksforgeeks.org/problems/right-triangle/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2
+
 Pattern 3: https://practice.geeksforgeeks.org/problems/triangle-number/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_3
+
 Pattern 4: https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_4
+
 Pattern 5: https://practice.geeksforgeeks.org/problems/triangle-pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_5
+
 Pattern 6: https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_6
 
 
