@@ -3,6 +3,8 @@
 ***geeksforgeeks***
 Problem1: https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%5B%5D=Java&category%5B%5D=Java&difficulty%5B%5D=-2&page=1&query=category%5B%5DJavadifficulty%5B%5D-2page1category%5B%5DJava
 
+Problem2: https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1
+
 Lecture 1: Java - Introduction to Programming
 
 Lecture 2: Java - Introduction to Programming.
