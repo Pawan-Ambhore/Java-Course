@@ -1,5 +1,8 @@
 # Java-Course
 
+***geeksforgeeks***
+Problem1: https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%5B%5D=Java&category%5B%5D=Java&difficulty%5B%5D=-2&page=1&query=category%5B%5DJavadifficulty%5B%5D-2page1category%5B%5DJava
+
 Lecture 1: Java - Introduction to Programming
 
 Lecture 2: Java - Introduction to Programming.
@@ -38,7 +41,6 @@ Marks >=90 -> print “This is Good”
 89 >= Marks >= 60 -> print “This is also Good”
 59 >= Marks >= 0 -> print “This is Good as well”
 	Because marks don’t matter but our effort does.
-
 
 
 
