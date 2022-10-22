@@ -1,39 +1,39 @@
-package geeksforgeeks;
+// package geeksforgeeks;
 
-public class SwitchCase {
+// public class SwitchCase {
 
-    // User function Template for Java
+//     // User function Template for Java
 
-class Solution{
-    static double switchCase(int choice, List<Double> arr){
-        // code here
+// class Solution{
+//     static double switchCase(int choice, List<Double> arr){
+//         // code here
         
-           double area=0;
+//            double area=0;
 
-    // code here
+//     // code here
 
-            switch(choice)
+//             switch(choice)
 
-            {
+//             {
 
-            case 1:
+//             case 1:
 
-              area =   Math.PI*arr.get(0)*arr.get(0);// area of circle
+//               area =   Math.PI*arr.get(0)*arr.get(0);// area of circle
 
-              break;
+//               break;
 
-              case 2:// area of rectangle
+//               case 2:// area of rectangle
 
-        area = arr.get(0)*arr.get(1);
+//         area = arr.get(0)*arr.get(1);
 
-                break;
+//                 break;
 
                 
 
-            }
+//             }
 
-            return area;
-    }
-}
+//             return area;
+//     }
+// }
     
-}
+// }
