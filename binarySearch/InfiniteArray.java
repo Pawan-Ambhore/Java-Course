@@ -4,15 +4,17 @@ public class InfiniteArray {
 
     public static void main(String[] args) {
 
-        int arr[] = {3,5,8,65,89,106,999,1023,5622} ;
+        int arr[] = {3,5,8,65,89,106,999} ;
 
-        int target = 1023;
+        int target = 8;
 
         int finalans = ans(arr, target);
+
+        System.out.println(finalans);
         
     }
 
-    static int ans = (int[] arr, int target){
+    static int ans(int[] arr, int target){
 
         int start = 0;
         int end = 1;
