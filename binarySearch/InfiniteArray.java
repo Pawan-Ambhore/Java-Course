@@ -8,9 +8,9 @@ public class InfiniteArray {
 
         int target = 8;
 
-        int finalans = ans(arr, target);
+        // int finalans = ans(arr, target);
 
-        System.out.println(finalans);
+        System.out.println(ans(arr, target));
         
     }
 
