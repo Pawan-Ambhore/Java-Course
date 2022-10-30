@@ -19,7 +19,7 @@ public class Mountain {
 
         while(start < end){
 
-            int mid = end + (end - start) / 2;
+            int mid = start + (end - start) / 2;
 
             if(arr[mid] > arr[mid+1]){
                 end = mid;
