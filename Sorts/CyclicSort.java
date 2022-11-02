@@ -12,7 +12,7 @@ public class CyclicSort {
         System.out.println(Arrays.toString(arr));
     }
 
-    static void Cyclic(int[] arr){
+   public static void Cyclic(int[] arr){
 
         for(int i = 0; i < arr.length; i++){
             int correct = arr[i] - 1;
@@ -24,7 +24,7 @@ public class CyclicSort {
         }
     }
 
-    static void swap(int[] arr, int first, int second){
+    public static void swap(int[] arr, int first, int second){
        
         int temp = arr[first];
         arr[first] = arr[second];
